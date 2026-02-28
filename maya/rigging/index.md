@@ -1,6 +1,6 @@
 ---
 title: Rigging
-parent: maya
+parent: Maya
 has_children: true
 ---
 
