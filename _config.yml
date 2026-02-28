@@ -1,0 +1,11 @@
+title: inouwe's Tech Blog
+url: https://in0uwe.github.io
+baseurl: ""
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+
+favicon_ico: https://i.gyazo.com/thumb/240/c00b46fe8783e069dcad781f48c9973b-jpg.jpg
